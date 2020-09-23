@@ -3,3 +3,6 @@ hello
 git is difficult to understand
 
 It is really overwhelming.
+
+Error in R Studio: 
+'touch' is not recognized as an internal or external command, operable program or batch file.
